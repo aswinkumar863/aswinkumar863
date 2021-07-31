@@ -15,6 +15,8 @@
   <a href="https://github.com/aswinkumar863?tab=followers">
     <img src="https://img.shields.io/github/stars/aswinkumar863?affiliations=OWNER%2CCOLLABORATOR&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=aswinkumar863" alt="blueedge"/>
 
 </p>
 
