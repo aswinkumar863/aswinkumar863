@@ -32,6 +32,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_repositories: yes
+          plugin_notable_from: all
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
