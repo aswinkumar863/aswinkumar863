@@ -236,7 +236,7 @@
                             <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
-                            <div class="label" title="">vue</div>
+                            <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="PHP is a popular general-purpose scripting language that works particularly well for server-side web development.">php</div>
                             <div class="label" title="jQuery is a lightweight library that simplifies programming with JavaScript.">jquery</div>
                             <div class="label" title="The PHP Framework for Web Artisans.">laravel</div>
@@ -247,7 +247,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2025, 18:03:13 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2025, 06:45:51 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
